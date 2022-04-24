@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I'm @TongtongXing  <br>
 🔭 From: College of Management, Shenzhen University, Shenzhen, China  <br>
-🔭 Working on: SI-based feature selection method for high-Dimensional unbalanced classification problems  <br>
+🌱 Working on: SI-based feature selection method for high-Dimensional unbalanced classification problems  <br>
 📫 How to reach me: m17860508004@163.com  <br>
 ⚡ Fun fact: I walked slowly, but fortunately I continued  <br>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
