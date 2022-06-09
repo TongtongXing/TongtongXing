@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm @TongtongXing  <br>
+👋 Hi, I'm a dog <br>
 🔭 From: College of Management, Shenzhen University, Shenzhen, China  <br>
 🌱 Working on: SI-based feature selection method for high-Dimensional unbalanced classification problems  <br>
 📫 How to reach me: 2363442891@qq.com  <br>
